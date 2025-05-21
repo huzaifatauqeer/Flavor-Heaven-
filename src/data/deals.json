@@ -1,0 +1,46 @@
+[
+  {
+    "id": "d1",
+    "title": "Lunch Combo",
+    "items_included": ["f1", "f8"],
+    "deal_price": 520,
+    "regular_price": 570,
+    "start_date": "2025-05-01",
+    "end_date": "2025-06-01",
+    "is_active": true,
+    "description": "Enjoy a delicious Chicken Biryani with refreshing Mint Lemonade at a special price"
+  },
+  {
+    "id": "d2",
+    "title": "Burger Meal",
+    "items_included": ["f2", "f3", "f8"],
+    "deal_price": 599,
+    "regular_price": 680,
+    "start_date": "2025-05-01",
+    "end_date": "2025-06-15",
+    "is_active": true,
+    "description": "Complete burger meal with fries and drink at a discounted price"
+  },
+  {
+    "id": "d3",
+    "title": "Family Pack",
+    "items_included": ["f1", "f7", "f3", "f5", "f5"],
+    "deal_price": 1499,
+    "regular_price": 1750,
+    "start_date": "2025-05-01",
+    "end_date": "2025-07-01",
+    "is_active": false,
+    "description": "Perfect family meal with Biryani, Karahi, Fries and two Mango Shakes"
+  },
+  {
+    "id": "d4",
+    "title": "Dessert Special",
+    "items_included": ["f4", "f8"],
+    "deal_price": 299,
+    "regular_price": 370,
+    "start_date": "2025-06-01",
+    "end_date": "2025-06-30",
+    "is_active": true,
+    "description": "Sweet treat! Chocolate cake with refreshing mint lemonade"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "s1",
+    "name": "Ali Khan",
+    "role": "Chef",
+    "status": "Active"
+  },
+  {
+    "id": "s2",
+    "name": "Sarah Ahmed",
+    "role": "Waiter",
+    "status": "Active"
+  },
+  {
+    "id": "s3",
+    "name": "Zain Malik",
+    "role": "Manager",
+    "status": "Active"
+  },
+  {
+    "id": "s4",
+    "name": "Ayesha Imran",
+    "role": "Cashier",
+    "status": "Inactive"
+  },
+  {
+    "id": "s5",
+    "name": "Bilal Hassan",
+    "role": "Chef",
+    "status": "Active"
+  },
+  {
+    "id": "s6",
+    "name": "Fatima Zahra",
+    "role": "Waiter",
+    "status": "Inactive"
+  },
+  {
+    "id": "s7",
+    "name": "Omar Farooq",
+    "role": "Cleaner",
+    "status": "Active"
+  },
+  {
+    "id": "s8",
+    "name": "Nadia Khan",
+    "role": "Host",
+    "status": "Active"
+  }
+]

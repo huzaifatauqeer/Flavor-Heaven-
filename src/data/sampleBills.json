@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b1",
+    "items": [
+      { "food_item_id": "f1", "name": "Chicken Biryani", "quantity": 2, "unit_price": 450 },
+      { "food_item_id": "f5", "name": "Mango Shake", "quantity": 2, "unit_price": 150 }
+    ],
+    "subtotal": 1200,
+    "tax": 180,
+    "total_amount": 1380,
+    "payment_method": "Cash",
+    "date": "2025-05-09T12:34:56",
+    "customer_name": "Imran Khan"
+  },
+  {
+    "id": "b2",
+    "items": [
+      { "food_item_id": "f2", "name": "Beef Burger", "quantity": 1, "unit_price": 380 },
+      { "food_item_id": "f3", "name": "French Fries", "quantity": 1, "unit_price": 180 },
+      { "food_item_id": "f8", "name": "Mint Lemonade", "quantity": 1, "unit_price": 120 }
+    ],
+    "subtotal": 680,
+    "tax": 102,
+    "total_amount": 782,
+    "payment_method": "Card",
+    "date": "2025-05-10T18:22:10",
+    "customer_name": "Ayesha Ali"
+  },
+  {
+    "id": "b3",
+    "items": [
+      { "food_item_id": "d2", "name": "Burger Meal (Deal)", "quantity": 2, "unit_price": 599 }
+    ],
+    "subtotal": 1198,
+    "tax": 179.7,
+    "total_amount": 1377.7,
+    "payment_method": "Cash",
+    "date": "2025-05-11T20:15:22",
+    "customer_name": "Omar Hassan"
+  }
+]

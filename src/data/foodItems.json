@@ -1,0 +1,66 @@
+[
+  {
+    "id": "f1",
+    "name": "Chicken Biryani",
+    "category": "Main Course",
+    "price": 450,
+    "is_available": true,
+    "description": "Flavorful rice dish cooked with aromatic spices and tender chicken pieces"
+  },
+  {
+    "id": "f2",
+    "name": "Beef Burger",
+    "category": "Main Course",
+    "price": 380,
+    "is_available": true,
+    "description": "Juicy beef patty with fresh vegetables and special sauce"
+  },
+  {
+    "id": "f3",
+    "name": "French Fries",
+    "category": "Starter",
+    "price": 180,
+    "is_available": true,
+    "description": "Crispy golden potato fries served with ketchup"
+  },
+  {
+    "id": "f4",
+    "name": "Chocolate Cake",
+    "category": "Dessert",
+    "price": 250,
+    "is_available": false,
+    "description": "Rich chocolate cake with a soft, moist texture"
+  },
+  {
+    "id": "f5",
+    "name": "Mango Shake",
+    "category": "Drinks",
+    "price": 150,
+    "is_available": true,
+    "description": "Refreshing shake made with fresh mangoes and milk"
+  },
+  {
+    "id": "f6",
+    "name": "Caesar Salad",
+    "category": "Starter",
+    "price": 220,
+    "is_available": true,
+    "description": "Fresh romaine lettuce with Caesar dressing and croutons"
+  },
+  {
+    "id": "f7",
+    "name": "Chicken Karahi",
+    "category": "Main Course",
+    "price": 550,
+    "is_available": true,
+    "description": "Traditional Pakistani dish with chicken cooked in a wok with spices"
+  },
+  {
+    "id": "f8",
+    "name": "Mint Lemonade",
+    "category": "Drinks",
+    "price": 120,
+    "is_available": true,
+    "description": "Cool refreshing drink with fresh mint leaves and lemon"
+  }
+]
