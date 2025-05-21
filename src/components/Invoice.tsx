@@ -5,23 +5,12 @@ import {
   Text,
   View,
   StyleSheet,
-  Font,
 } from '@react-pdf/renderer';
-
-// Register a modern font
-Font.register({
-  family: 'Roboto',
-  fonts: [
-    { src: 'https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxM.woff2' }, // Regular
-    { src: 'https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.woff2', fontWeight: 'bold' }, // Bold
-  ],
-});
 
 const styles = StyleSheet.create({
   page: {
     padding: 40,
     fontSize: 11,
-    fontFamily: 'Roboto',
     backgroundColor: '#f6f6f6',
   },
   header: {
